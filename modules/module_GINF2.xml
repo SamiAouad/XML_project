@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<modules codeFiliere="GINF2">
+<module codeModule="GINF31">
+<moduleName>Programmation Oriente objet et XML</moduleName>
+<element1>JAVA</element1>
+<element2>xml</element2>
+<prof>El Haddad</prof>
+<dept>SIC</dept>
+</module>
+<module codeModule="GINF32">
+<moduleName>Qualite et approche processus</moduleName>
+<element1>Cycle Vie Logiciel</element1>
+<element2>Assurance Qualite &amp; Maitrise des processus</element2>
+<prof>Rahali El Azzouzi</prof>
+<dept>SIC</dept>
+</module>
+<module codeModule="GINF33">
+<moduleName>Modelisation Oriente Objet</moduleName>
+<element1>UML</element1>
+<element2>IHM</element2>
+<prof>El alami hassoun</prof>
+<dept>MI</dept>
+</module>
+<module codeModule="GINF34">
+<moduleName>Base De Donnees</moduleName>
+<element1>Optimisation et BD Repartie</element1>
+<element2>Administration BD</element2>
+<prof>BADIR</prof>
+<dept>SIC</dept>
+</module>
+<module codeModule="GINF35">
+<moduleName>Administration et prog sys</moduleName>
+<element1>Administration Sys</element1>
+<element2>Programmation sys</element2>
+<prof>Amechnoue</prof>
+<dept>MI</dept>
+</module>
+<module codeModule="GINF36">
+<moduleName>Langue et Communication</moduleName>
+<element1>Anglais Espagnole</element1>
+<element2>Technique de communication</element2>
+<prof>HARIS</prof>
+<dept>SIC</dept>
+</module>
+</modules>
