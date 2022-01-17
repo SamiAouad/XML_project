@@ -28,7 +28,7 @@ class MainClass {
 //            ensat.generer_xml_notes();
         User user = new User("B22", "GINF2");
         try {
-            user.genererRelevee();
+            user.genereCarteEtu();
         } catch (FOPException ex) {
             Logger.getLogger(MainClass.class.getName()).log(Level.SEVERE, null, ex);
         } catch (TransformerException ex) {
