@@ -31,20 +31,20 @@
             <fo:block  >
                 
                 <fo:external-graphic content-width="15mm"  
-                    src="images/logoENSAT.png"/>
+                    src="../images/logoENSAT.png"/>
                 <fo:block padding-left="20mm" padding-top ="-10mm"  margin-left="0mm" >
                     Carte d'etudiant
                 </fo:block>
                 
                 <fo:block >
                     <fo:external-graphic padding-top ="-55mm" margin-left="0mm"  padding-bottom="3mm" padding-left="58mm" content-width="20mm"
-                        src="images/logoUni.png"/>
+                        src="../images/logoUni.png"/>
                 </fo:block> 
             </fo:block>
             
             <fo:block>
                 <fo:block>
-                    <xsl:variable name="image"  select="concat('images/', concat($cne, '.png'))"/>
+                    <xsl:variable name="image"  select="concat('../images/', concat($cne, '.png'))"/>
                     <fo:external-graphic  line-height="0pt" padding-left="5mm"   padding-top="5mm" content-height="18mm" content-width="20mm"
                         src="{$image}"/>
                 </fo:block>
@@ -73,14 +73,14 @@
                 </fo:block>
                 <fo:block >
                     <fo:external-graphic  padding-bottom="-10mm"  height="5mm" width="55mm" 
-                        src="images/footerCarteEtudiant.png"/>
+                        src="../images/footerCarteEtudiant.png"/>
                 </fo:block>
             </fo:block>
             
         </fo:block-container>
         
         
-s    </xsl:template>
+    </xsl:template>
     
     
     
