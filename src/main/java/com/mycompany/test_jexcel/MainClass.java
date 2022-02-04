@@ -20,13 +20,14 @@ class MainClass {
     
     public static void main(String[] args) throws IOException{
         
-//            Ecole ensat = new Ecole("ensat", "modules");
-//            ensat.addStudents("test");
-//            ensat.addNotes("notes");
-//            ensat.generer_xml_students();
-//            ensat.generer_xml_modules();
-//            ensat.generer_xml_notes();
+           Ecole ensat = new Ecole("ensat", "modules");
+            ensat.addStudents("test2");
+            ensat.addNotes("notes");
+            ensat.generer_xml_students();
+            ensat.generer_xml_modules();
+            ensat.generer_xml_notes();
         User user = new User("B22", "GINF2");
+        /*
         try {
             user.genereCarteEtu();
         } catch (FOPException ex) {
@@ -36,6 +37,7 @@ class MainClass {
         } catch (FileNotFoundException ex) {
             Logger.getLogger(MainClass.class.getName()).log(Level.SEVERE, null, ex);
         }
+*/
     }
     
 }

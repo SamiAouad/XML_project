@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Emploi>
+    <Semestre numero="1">
+        <Semaine numero="1">
+            <Lundi jour="03/01">
+                <Seance seance="1">
+                    <Matiere>Cycle de vie logiciel</Matiere>
+                    <Enseignant>Mr Badir</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Cycle de vie logiciel</Matiere>
+                    <Enseignant>Mr Badir</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Modélisation Orientée OBJ</Matiere>
+                    <Enseignant>El Alami</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>TD</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Modélisation Orientée OBJ</Matiere>
+                    <Enseignant>El Alami</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>TD</Type>
+                </Seance>
+            </Lundi>
+            <Mardi jour="04/01">
+                <Seance seance="1">
+                    <Matiere>Gestion des données distribués</Matiere>
+                    <Enseignant>Mme Fissoune</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Gestion des données distribués</Matiere>
+                    <Enseignant>Mr Badir</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>TP</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Programmation Systeme</Matiere>
+                    <Enseignant>Mr Amechnoue</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>TP</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Programmation Systeme</Matiere>
+                    <Enseignant>Mr Amechnoue</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>TP</Type>
+                </Seance>
+            </Mardi>
+            <Mercredi jour="05/01">
+                <Seance seance="1">
+                    <Matiere>Programmation Orientée Objet</Matiere>
+                    <Enseignant>El Haddad</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Programmation Orientée Objet</Matiere>
+                    <Enseignant>El Haddad</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>TP</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Programmation Systeme</Matiere>
+                    <Enseignant>Mr Amechnoue</Enseignant>
+                    <Salle>B22</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+            </Mercredi>
+            <Jeudi jour="06/01">
+                <Seance seance="1">
+                    <Matiere>Interface Homme Machine</Matiere>
+                    <Enseignant>Mr El Alami</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Interface Homme Machine</Matiere>
+                    <Enseignant>Mr El Alami</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>TD</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Technique De Communication</Matiere>
+                    <Enseignant>Mme Zammoumi</Enseignant>
+                    <Salle>C1</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Technique De Communication</Matiere>
+                    <Enseignant>Mme Zammoumi</Enseignant>
+                    <Salle>C1</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+            </Jeudi>
+            <Vendredi jour="07/01">
+                <Seance seance="1">
+                    <Matiere>Espagnol</Matiere>
+                    <Enseignant>Mme Lamarti</Enseignant>
+                    <Salle>B22</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Assurance Controle Qualite</Matiere>
+                    <Enseignant>Mme Rahali Azouzi</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Assurance Controle Qualite</Matiere>
+                    <Enseignant>Mme Rahali Azouzi</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+            </Vendredi>
+        </Semaine>
+    </Semestre>
+    <Semestre numero="2">
+        <Semaine numero="1">
+            <Lundi jour="14/02">
+                <Seance seance="1">
+                    <Matiere>Cryptographie</Matiere>
+                    <Enseignant>Mmme Lazaar</Enseignant>
+                    <Salle>A8</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Cryptographie</Matiere>
+                    <Enseignant>Mmme Lazaar</Enseignant>
+                    <Salle>A8</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Base de données No SQL</Matiere>
+                    <Enseignant>Mr Badir</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Base de données No SQL</Matiere>
+                    <Enseignant>Mr Badir</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+            </Lundi>
+            <Mardi jour="15/02">
+                <Seance seance="1">
+                    <Matiere>Cryptographie</Matiere>
+                    <Enseignant>Mme Lazaar</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>TP</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>DOT NET C Sharp</Matiere>
+                    <Enseignant>Mr Ghailani</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Technique Algorithmique</Matiere>
+                    <Enseignant>Mr Maeoun</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Technique Algorithmique</Matiere>
+                    <Enseignant>Mr Maeoun</Enseignant>
+                    <Salle>B20</Salle>
+                    <Type>TD</Type>
+                </Seance>
+            </Mardi>
+            <Mercredi jour="17/02">
+                <Seance seance="1">
+                    <Matiere>Comptabilité 2</Matiere>
+                    <Enseignant>Mme Mergoum</Enseignant>
+                    <Salle>B2</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Comptabilité 2</Matiere>
+                    <Enseignant>Mme Mergoum</Enseignant>
+                    <Salle>B2</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>Management De projet</Matiere>
+                    <Enseignant>Mme Rahali Azouzi</Enseignant>
+                    <Salle>B21</Salle>
+                    <Type>TP</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Management De projet</Matiere>
+                    <Enseignant>Mme Rahali Azouzi</Enseignant>
+                    <Salle>B21</Salle>
+                    <Type>TP</Type>
+                </Seance>
+            </Mercredi>
+            <Jeudi jour="18/02">
+                <Seance seance="1">
+                    <Matiere>Traitement D'Image</Matiere>
+                    <Enseignant>Mr Lachkar</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>TP</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Traitement D'Image</Matiere>
+                    <Enseignant>Mr Lachkar</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="3">
+                    <Matiere>DOT NET C Sharp</Matiere>
+                    <Enseignant>Mr Ghailani</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>TP</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>DOT NET C Sharp</Matiere>
+                    <Enseignant>Mr Ghailani</Enseignant>
+                    <Salle>B19</Salle>
+                    <Type>TP</Type>
+                </Seance>
+            </Jeudi>
+            <Vendredi jour="19/02">
+                <Seance seance="1">
+                    <Matiere>Gestion des données complexe</Matiere>
+                    <Enseignant>Mr Badir</Enseignant>
+                    <Salle>B22</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="2">
+                    <Matiere>Gestion des données complexe</Matiere>
+                    <Enseignant>Mr Badir</Enseignant>
+                    <Salle>B22</Salle>
+                    <Type>Cours</Type>
+                </Seance>
+                <Seance seance="4">
+                    <Matiere>Technique Algorithmique</Matiere>
+                    <Enseignant>Mr Maouen</Enseignant>
+                    <Salle>B22</Salle>
+                    <Type>TD</Type>
+                </Seance>
+            </Vendredi>
+        </Semaine>
+    </Semestre>
+</Emploi>
