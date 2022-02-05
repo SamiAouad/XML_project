@@ -42,7 +42,7 @@ public class Filiere {
         this.code = code;
         try{
             modules_list = new ArrayList<>();
-            FileInputStream fis = new FileInputStream(new File("C://ExcelTest/" + path + ".xlsx"));
+            FileInputStream fis = new FileInputStream(new File("Excel/" + path + ".xlsx"));
 
             XSSFWorkbook workbook = new XSSFWorkbook(fis);
             XSSFSheet spreadsheet = workbook.getSheetAt(0);
@@ -57,16 +57,16 @@ public class Filiere {
             fis.close();
         }
         catch(FileNotFoundException e){
-            System.out.println("error");
+            System.out.println(e.getMessage());
         }catch(IOException e){
-               System.out.println("error");
+               System.out.println(e.getMessage());
         }
     }
     
     public void ajouter_students(String path)  {
         try{
              students_list = new ArrayList<>();
-            FileInputStream fis = new FileInputStream(new File("C://ExcelTest/" + path + ".xlsx"));
+            FileInputStream fis = new FileInputStream(new File("Excel/" + path + ".xlsx"));
             XSSFWorkbook workbook = new XSSFWorkbook(fis);
             XSSFSheet spreadsheet = workbook.getSheetAt(0);
             Iterator < Row >  rowIterator = spreadsheet.iterator();
@@ -79,16 +79,16 @@ public class Filiere {
             }
             fis.close();
         }catch(FileNotFoundException e){
-            System.out.println("error");
+            System.out.println(e.getMessage());
         }catch(IOException e){
-               System.out.println("error");
+               System.out.println(e.getMessage());
         }
     }
     
      public void ajouter_notes(String path)  {
         try{
              notes_list = new ArrayList<>();
-            FileInputStream fis = new FileInputStream(new File("C://ExcelTest/" + path + ".xlsx"));
+            FileInputStream fis = new FileInputStream(new File("Excel/" + path + ".xlsx"));
             XSSFWorkbook workbook = new XSSFWorkbook(fis);
             XSSFSheet spreadsheet = workbook.getSheetAt(0);
             
@@ -203,7 +203,7 @@ public class Filiere {
          e.printStackTrace();
         }
         catch(TransformerException e){
-            System.out.println("error");
+            System.out.println(e.getMessage());
         }
     }
     

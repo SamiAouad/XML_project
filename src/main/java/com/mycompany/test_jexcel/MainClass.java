@@ -21,7 +21,7 @@ class MainClass {
     public static void main(String[] args) throws IOException{
         
            Ecole ensat = new Ecole("ensat", "modules");
-            ensat.addStudents("test2");
+            ensat.addStudents("students");
             ensat.addNotes("notes");
             ensat.generer_xml_students();
             ensat.generer_xml_modules();
