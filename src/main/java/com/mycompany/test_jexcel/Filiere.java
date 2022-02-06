@@ -66,7 +66,7 @@ public class Filiere {
     public void ajouter_students(String path)  {
         try{
              students_list = new ArrayList<>();
-            FileInputStream fis = new FileInputStream(new File("Excel/" + path + ".xlsx"));
+            FileInputStream fis = new FileInputStream(new File("excel/" + path + ".xlsx"));
             XSSFWorkbook workbook = new XSSFWorkbook(fis);
             XSSFSheet spreadsheet = workbook.getSheetAt(0);
             Iterator < Row >  rowIterator = spreadsheet.iterator();
@@ -88,7 +88,7 @@ public class Filiere {
      public void ajouter_notes(String path)  {
         try{
              notes_list = new ArrayList<>();
-            FileInputStream fis = new FileInputStream(new File("Excel/" + path + ".xlsx"));
+            FileInputStream fis = new FileInputStream(new File("excel/" + path + ".xlsx"));
             XSSFWorkbook workbook = new XSSFWorkbook(fis);
             XSSFSheet spreadsheet = workbook.getSheetAt(0);
             

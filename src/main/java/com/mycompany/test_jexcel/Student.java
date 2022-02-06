@@ -15,11 +15,11 @@ import org.apache.poi.ss.usermodel.Row;
  * @author pc
  */
 public class Student {
-    private String cne;
-    private String nom;
-    private String prenom;
-    private String email;
-    private int phone;
+   private String cne;
+   private String nom;
+   private String prenom;
+   private String email;
+   private int phone;
    private LocalDate dateNaiss;   
    private LocalDate dateInscription;
    private String classe;
@@ -35,8 +35,8 @@ public class Student {
         this.email = row.getCell(4).getStringCellValue();
         this.classe = row.getCell(5).getStringCellValue();
         this.phone = (int)row.getCell(6).getNumericCellValue();
-         this.dateInscription = row.getCell(7).getDateCellValue().toInstant().atZone(ZoneId.systemDefault()).toLocalDate();
-       this.image = "images/" + this.cne + ".jpg";
+        this.dateInscription = row.getCell(7).getDateCellValue().toInstant().atZone(ZoneId.systemDefault()).toLocalDate();
+        this.image = "images/" + this.cne + ".jpg";
     }
 
     public String getCne() {

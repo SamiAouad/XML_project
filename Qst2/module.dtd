@@ -9,4 +9,5 @@
 <!ELEMENT prof (#PCDATA)>
 <!ELEMENT dept (#PCDATA)>
 
-<!ATTLIST module codeModule CDATA #REQUIRED codeFiliere CDATA #REQUIRED >
+<!ATTLIST module codeModule CDATA #REQUIRED>
+<!ATTLIST modules codeFiliere CDATA #REQUIRED >

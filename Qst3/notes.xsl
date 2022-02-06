@@ -25,7 +25,7 @@
                             </tr>
                         </thead>
                         
-                        <xsl:for-each select="notes/student/module[@codeModule = 'GINF22']">
+                        <xsl:for-each select="notes/student/module[@codeModule = 'GINF33']">
                             <xsl:variable name="note1" select="note1"/>
                             <xsl:variable name="note2" select="note2"/>
                             <xsl:variable name="cne" select="parent::student/@cne"/>

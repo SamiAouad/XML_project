@@ -119,7 +119,7 @@
                         <fo:block>
                             <xsl:variable name="somme1" select="sum(notes/student/module[@codeModule = 'GINF31']/note1)"/>
                             <xsl:variable name="somme2" select="sum(notes/student/module[@codeModule = 'GINF31']/note2)"/>
-                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 26 "/>
+                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 96 "/>
                             <xsl:value-of select="format-number($moyenneG, '0.00')"/>
                         </fo:block>
                     </fo:table-cell>
@@ -129,7 +129,7 @@
                         <fo:block>
                             <xsl:variable name="somme1" select="sum(notes/student/module[@codeModule = 'GINF32']/note1)"/>
                             <xsl:variable name="somme2" select="sum(notes/student/module[@codeModule = 'GINF32']/note2)"/>
-                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 26 "/>
+                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 96 "/>
                             <xsl:value-of select="format-number($moyenneG, '0.00')"/>
                         </fo:block>
                     </fo:table-cell>
@@ -137,7 +137,7 @@
                         <fo:block>
                             <xsl:variable name="somme1" select="sum(notes/student/module[@codeModule = 'GINF33']/note1)"/>
                             <xsl:variable name="somme2" select="sum(notes/student/module[@codeModule = 'GINF33']/note2)"/>
-                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 26 "/>
+                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 96 "/>
                             <xsl:value-of select="format-number($moyenneG, '0.00')"/>
                         </fo:block>
                     </fo:table-cell>
@@ -146,7 +146,7 @@
                         <fo:block>
                             <xsl:variable name="somme1" select="sum(notes/student/module[@codeModule = 'GINF34']/note1)"/>
                             <xsl:variable name="somme2" select="sum(notes/student/module[@codeModule = 'GINF34']/note2)"/>
-                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 26 "/>
+                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 96 "/>
                             <xsl:value-of select="format-number($moyenneG, '0.00')"/>
                         </fo:block>
                     </fo:table-cell>
@@ -155,7 +155,7 @@
                         <fo:block>
                             <xsl:variable name="somme1" select="sum(notes/student/module[@codeModule = 'GINF35']/note1)"/>
                             <xsl:variable name="somme2" select="sum(notes/student/module[@codeModule = 'GINF35']/note2)"/>
-                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 26 "/>
+                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 96 "/>
                             <xsl:value-of select="format-number($moyenneG, '0.00')"/>
                         </fo:block>
                     </fo:table-cell>
@@ -164,7 +164,7 @@
                         <fo:block>
                             <xsl:variable name="somme1" select="sum(notes/student/module[@codeModule = 'GINF36']/note1)"/>
                             <xsl:variable name="somme2" select="sum(notes/student/module[@codeModule = 'GINF36']/note2)"/>
-                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 26 "/>
+                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 96 "/>
                             <xsl:value-of select="format-number($moyenneG, '0.00')"/>
                         </fo:block>
                     </fo:table-cell>
@@ -172,7 +172,7 @@
                         <fo:block>
                             <xsl:variable name="somme1" select="sum(notes/student/module/note1)"/>
                             <xsl:variable name="somme2" select="sum(notes/student/module/note2)"/>
-                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 156 "/>
+                            <xsl:variable name="moyenneG" select="xs:decimal($somme1 + $somme2) div 576 "/>
                             <xsl:value-of select="format-number($moyenneG, '0.00')"/>
                         </fo:block>
                     </fo:table-cell>

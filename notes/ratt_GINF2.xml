@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<notes>
+    <student cne="B40">
+        <module codeModule="GINF31">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>3.0</note1>
+            <note2>2.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+    </student>
+    <student cne="B41">
+        <module codeModule="GINF31">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+    </student>
+    <student cne="B42">
+        <module codeModule="GINF31">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>3.0</note1>
+            <note2>2.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>8.0</note1>
+            <note2>11.0</note2>
+        </module>
+    </student>
+    <student cne="B43">
+        <module codeModule="GINF31">
+            <note1>10.0</note1>
+            <note2>10.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>3.0</note1>
+            <note2>2.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>1.0</note1>
+            <note2>1.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>8.0</note1>
+            <note2>11.0</note2>
+        </module>
+    </student>
+    <student cne="B44">
+        <module codeModule="GINF31">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>3.0</note1>
+            <note2>2.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>1.0</note1>
+            <note2>1.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+    </student>
+    <student cne="B45">
+        <module codeModule="GINF31">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>3.0</note1>
+            <note2>2.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>1.0</note1>
+            <note2>1.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+    </student>
+    <student cne="B46">
+        <module codeModule="GINF31">
+            <note1>10.0</note1>
+            <note2>10.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>3.0</note1>
+            <note2>2.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>1.0</note1>
+            <note2>1.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>14.0</note1>
+            <note2>16.0</note2>
+        </module>
+    </student>
+    <student cne="B47">
+        <module codeModule="GINF31">
+            <note1>10.0</note1>
+            <note2>10.0</note2>
+        </module>
+        <module codeModule="GINF32">
+            <note1>11.0</note1>
+            <note2>11.0</note2>
+        </module>
+        <module codeModule="GINF33">
+            <note1>9.0</note1>
+            <note2>7.0</note2>
+        </module>
+        <module codeModule="GINF34">
+            <note1>3.0</note1>
+            <note2>2.0</note2>
+        </module>
+        <module codeModule="GINF35">
+            <note1>1.0</note1>
+            <note2>1.0</note2>
+        </module>
+        <module codeModule="GINF36">
+            <note1>8.0</note1>
+            <note2>11.0</note2>
+        </module>
+    </student>
+</notes>

@@ -43,6 +43,8 @@
                                     </xs:restriction>
                                 </xs:simpleType>
                             </xs:element>
+                            <xs:element name="dateInscription" type="myDate"/>
+                            
                         </xs:sequence>
                         <xs:attribute name="CNE" type="xs:token" use="required"/>
                     </xs:complexType>

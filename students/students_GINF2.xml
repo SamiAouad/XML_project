@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <students>
-<student CNE="B12">
+<student CNE="B1">
 <nom>Aouad</nom>
 <prenom>Sami</prenom>
 <dateDeNaiss>
@@ -11,14 +11,14 @@
 <email>prenom1@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/B12.jpg</image>
+<image>images/B1.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>11</day>
 </dateInscription>
 </student>
-<student CNE="B18">
+<student CNE="B2">
 <nom>Aouad</nom>
 <prenom>Sami</prenom>
 <dateDeNaiss>
@@ -29,14 +29,14 @@
 <email>prenom2@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/B18.jpg</image>
+<image>images/B2.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>12</day>
 </dateInscription>
 </student>
-<student CNE="A12">
+<student CNE="B3">
 <nom>Aouad</nom>
 <prenom>Sami</prenom>
 <dateDeNaiss>
@@ -47,14 +47,14 @@
 <email>prenom3@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/A12.jpg</image>
+<image>images/B3.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>13</day>
 </dateInscription>
 </student>
-<student CNE="A78">
+<student CNE="B4">
 <nom>Agnaou</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -65,14 +65,14 @@
 <email>prenom@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/A78.jpg</image>
+<image>images/B4.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>14</day>
 </dateInscription>
 </student>
-<student CNE="D67">
+<student CNE="B5">
 <nom>Agnaou</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -83,14 +83,14 @@
 <email>prenom4@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/D67.jpg</image>
+<image>images/B5.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>15</day>
 </dateInscription>
 </student>
-<student CNE="Z33">
+<student CNE="B6">
 <nom>Agnaou</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -101,14 +101,14 @@
 <email>prenom5@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/Z33.jpg</image>
+<image>images/B6.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>16</day>
 </dateInscription>
 </student>
-<student CNE="F34">
+<student CNE="B7">
 <nom>Agnaou</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -119,14 +119,14 @@
 <email>prenom6@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/F34.jpg</image>
+<image>images/B7.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>17</day>
 </dateInscription>
 </student>
-<student CNE="R12">
+<student CNE="B8">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -137,14 +137,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906651</phone>
-<image>images/R12.jpg</image>
+<image>images/B8.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>18</day>
 </dateInscription>
 </student>
-<student CNE="R13">
+<student CNE="B9">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -155,14 +155,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906652</phone>
-<image>images/R13.jpg</image>
+<image>images/B9.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>19</day>
 </dateInscription>
 </student>
-<student CNE="R14">
+<student CNE="B10">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -173,14 +173,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906653</phone>
-<image>images/R14.jpg</image>
+<image>images/B10.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>20</day>
 </dateInscription>
 </student>
-<student CNE="R15">
+<student CNE="B11">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -191,14 +191,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906654</phone>
-<image>images/R15.jpg</image>
+<image>images/B11.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>21</day>
 </dateInscription>
 </student>
-<student CNE="R16">
+<student CNE="B12">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -209,14 +209,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906655</phone>
-<image>images/R16.jpg</image>
+<image>images/B12.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>22</day>
 </dateInscription>
 </student>
-<student CNE="R17">
+<student CNE="B13">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -227,14 +227,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906656</phone>
-<image>images/R17.jpg</image>
+<image>images/B13.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>23</day>
 </dateInscription>
 </student>
-<student CNE="R18">
+<student CNE="B14">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -245,14 +245,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906657</phone>
-<image>images/R18.jpg</image>
+<image>images/B14.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>24</day>
 </dateInscription>
 </student>
-<student CNE="R19">
+<student CNE="B15">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -263,14 +263,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906658</phone>
-<image>images/R19.jpg</image>
+<image>images/B15.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>25</day>
 </dateInscription>
 </student>
-<student CNE="R20">
+<student CNE="B16">
 <nom>Khabar</nom>
 <prenom>Achraf</prenom>
 <dateDeNaiss>
@@ -281,14 +281,14 @@
 <email>achraf@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906659</phone>
-<image>images/R20.jpg</image>
+<image>images/B16.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>26</day>
 </dateInscription>
 </student>
-<student CNE="R21">
+<student CNE="B17">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -299,14 +299,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906660</phone>
-<image>images/R21.jpg</image>
+<image>images/B17.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>27</day>
 </dateInscription>
 </student>
-<student CNE="R22">
+<student CNE="B18">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -317,14 +317,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906661</phone>
-<image>images/R22.jpg</image>
+<image>images/B18.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>28</day>
 </dateInscription>
 </student>
-<student CNE="R23">
+<student CNE="B19">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -335,14 +335,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906662</phone>
-<image>images/R23.jpg</image>
+<image>images/B19.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>29</day>
 </dateInscription>
 </student>
-<student CNE="R24">
+<student CNE="B20">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -353,14 +353,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906663</phone>
-<image>images/R24.jpg</image>
+<image>images/B20.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>30</day>
 </dateInscription>
 </student>
-<student CNE="R25">
+<student CNE="B21">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -371,14 +371,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906664</phone>
-<image>images/R25.jpg</image>
+<image>images/B21.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>10</month>
 <day>31</day>
 </dateInscription>
 </student>
-<student CNE="R26">
+<student CNE="B22">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -389,14 +389,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906665</phone>
-<image>images/R26.jpg</image>
+<image>images/B22.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>1</day>
 </dateInscription>
 </student>
-<student CNE="R27">
+<student CNE="B23">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -407,14 +407,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906666</phone>
-<image>images/R27.jpg</image>
+<image>images/B23.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>2</day>
 </dateInscription>
 </student>
-<student CNE="R28">
+<student CNE="B24">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -425,14 +425,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906667</phone>
-<image>images/R28.jpg</image>
+<image>images/B24.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>3</day>
 </dateInscription>
 </student>
-<student CNE="R29">
+<student CNE="B25">
 <nom>Salah</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
@@ -443,14 +443,14 @@
 <email>mohamed@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906668</phone>
-<image>images/R29.jpg</image>
+<image>images/B25.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>4</day>
 </dateInscription>
 </student>
-<student CNE="R30">
+<student CNE="B26">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -461,14 +461,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906669</phone>
-<image>images/R30.jpg</image>
+<image>images/B26.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>5</day>
 </dateInscription>
 </student>
-<student CNE="R31">
+<student CNE="B27">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -479,14 +479,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906670</phone>
-<image>images/R31.jpg</image>
+<image>images/B27.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>6</day>
 </dateInscription>
 </student>
-<student CNE="R32">
+<student CNE="B28">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -497,14 +497,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906671</phone>
-<image>images/R32.jpg</image>
+<image>images/B28.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>7</day>
 </dateInscription>
 </student>
-<student CNE="R33">
+<student CNE="B29">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -515,14 +515,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906672</phone>
-<image>images/R33.jpg</image>
+<image>images/B29.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>8</day>
 </dateInscription>
 </student>
-<student CNE="R34">
+<student CNE="B30">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -533,14 +533,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906673</phone>
-<image>images/R34.jpg</image>
+<image>images/B30.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>9</day>
 </dateInscription>
 </student>
-<student CNE="R35">
+<student CNE="B31">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -551,14 +551,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906674</phone>
-<image>images/R35.jpg</image>
+<image>images/B31.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>10</day>
 </dateInscription>
 </student>
-<student CNE="R36">
+<student CNE="B32">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -569,14 +569,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906675</phone>
-<image>images/R36.jpg</image>
+<image>images/B32.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>11</day>
 </dateInscription>
 </student>
-<student CNE="R37">
+<student CNE="B33">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -587,14 +587,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906676</phone>
-<image>images/R37.jpg</image>
+<image>images/B33.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>12</day>
 </dateInscription>
 </student>
-<student CNE="R38">
+<student CNE="B34">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -605,14 +605,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906677</phone>
-<image>images/R38.jpg</image>
+<image>images/B34.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>13</day>
 </dateInscription>
 </student>
-<student CNE="R39">
+<student CNE="B35">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -623,14 +623,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906678</phone>
-<image>images/R39.jpg</image>
+<image>images/B35.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>14</day>
 </dateInscription>
 </student>
-<student CNE="R40">
+<student CNE="B36">
 <nom>Fathi</nom>
 <prenom>Hamdi</prenom>
 <dateDeNaiss>
@@ -641,14 +641,14 @@
 <email>Hamdi@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906679</phone>
-<image>images/R40.jpg</image>
+<image>images/B36.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>15</day>
 </dateInscription>
 </student>
-<student CNE="R41">
+<student CNE="B37">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -659,14 +659,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906680</phone>
-<image>images/R41.jpg</image>
+<image>images/B37.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>16</day>
 </dateInscription>
 </student>
-<student CNE="R42">
+<student CNE="B38">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -677,14 +677,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906681</phone>
-<image>images/R42.jpg</image>
+<image>images/B38.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>17</day>
 </dateInscription>
 </student>
-<student CNE="R43">
+<student CNE="B39">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -695,14 +695,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906682</phone>
-<image>images/R43.jpg</image>
+<image>images/B39.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>18</day>
 </dateInscription>
 </student>
-<student CNE="R44">
+<student CNE="B40">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -713,14 +713,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906683</phone>
-<image>images/R44.jpg</image>
+<image>images/B40.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>19</day>
 </dateInscription>
 </student>
-<student CNE="R45">
+<student CNE="B41">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -731,14 +731,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906684</phone>
-<image>images/R45.jpg</image>
+<image>images/B41.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>20</day>
 </dateInscription>
 </student>
-<student CNE="R46">
+<student CNE="B42">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -749,14 +749,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906685</phone>
-<image>images/R46.jpg</image>
+<image>images/B42.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>21</day>
 </dateInscription>
 </student>
-<student CNE="R47">
+<student CNE="B43">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -767,14 +767,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906686</phone>
-<image>images/R47.jpg</image>
+<image>images/B43.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>22</day>
 </dateInscription>
 </student>
-<student CNE="R48">
+<student CNE="B44">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -785,14 +785,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906687</phone>
-<image>images/R48.jpg</image>
+<image>images/B44.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>23</day>
 </dateInscription>
 </student>
-<student CNE="R49">
+<student CNE="B45">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -803,14 +803,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906688</phone>
-<image>images/R49.jpg</image>
+<image>images/B45.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>24</day>
 </dateInscription>
 </student>
-<student CNE="R50">
+<student CNE="B46">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -821,14 +821,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906689</phone>
-<image>images/R50.jpg</image>
+<image>images/B46.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>25</day>
 </dateInscription>
 </student>
-<student CNE="R51">
+<student CNE="B47">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -839,14 +839,14 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906690</phone>
-<image>images/R51.jpg</image>
+<image>images/B47.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>
 <day>26</day>
 </dateInscription>
 </student>
-<student CNE="R52">
+<student CNE="B48">
 <nom>Trezeget</nom>
 <prenom>Hassani</prenom>
 <dateDeNaiss>
@@ -857,7 +857,7 @@
 <email>Hassani@test.com</email>
 <classeName>GINF2</classeName>
 <phone>0612906691</phone>
-<image>images/R52.jpg</image>
+<image>images/B48.jpg</image>
 <dateInscription>
 <year>2018</year>
 <month>11</month>

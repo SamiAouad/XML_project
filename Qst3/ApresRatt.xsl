@@ -23,11 +23,14 @@
                             </tr>
                         </thead>
                         
-                        <xsl:for-each select="notes/student/module[@codeModule = 'GINF22']">
+                        <xsl:for-each select="notes/student/module[@codeModule = 'GINF32']">
+                            
                             <xsl:variable name="note1" select="note1"/>
                             <xsl:variable name="note2" select="note2"/>
+                            
                             <xsl:variable name="note" select="($note1 + $note2) div 2"/>
                             <xsl:if test="$note &lt; 12 and $note &gt; 8 or $note = 8">
+                                
                                 <xsl:variable name="cne" select="parent::student/@cne"/>
                                 <xsl:variable name="students" select="document('../students/students_GINF2.xml')"/>
                                 
