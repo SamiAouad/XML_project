@@ -24,10 +24,9 @@
         <xsl:variable name="filiere" select="document('../user.xml')/user/filiere"/>
         <xsl:variable name="infoEtudiant" select="document('../students/students_GINF2.xml')/students/student[@CNE = $cne]"/>
         <xsl:variable name="etudiant" select="document('notes_GINF2.xml')/notes/student[@cne = $cne]"/>
-        <fo:block text-align="center" margin-bottom="1cm" font-size="36px" padding="1cm"
-            font-family="Sans_serif"> Relevé de notes et résultats </fo:block>
-        <fo:block-container margin-left="5mm" padding-top="-10mm" padding-bottom="10mm">
-            <fo:block><xsl:value-of select="$infoEtudiant/nom"/>&#160;<xsl:value-of select="$infoEtudiant/prenom"
+        <fo:block  margin-top="5mm" font-weight="bold" font-size="23pt" text-indent="0pc" space-after="25pt" space-before="0pt" text-align="center"> Relevé de notes et résultats </fo:block>
+        <fo:block-container margin-left="5mm"  padding-bottom="10mm">
+            <fo:block margin-top="5mm" font-weight="bold" font-size="18pt"><xsl:value-of select="$infoEtudiant/nom"/>&#160;<xsl:value-of select="$infoEtudiant/prenom"
                 /></fo:block>
             <fo:block>N°carte nationale : <xsl:value-of select="$infoEtudiant/@CNE"/></fo:block>
             <fo:block>Née le : <xsl:value-of select="$infoEtudiant/dateDeNaiss/day"/>/<xsl:value-of
@@ -37,14 +36,14 @@
             <fo:block>CNE : <xsl:value-of select="$infoEtudiant/@CNE"/></fo:block>
             <fo:block>Filiere : <xsl:value-of select="$filiere"/></fo:block>
         </fo:block-container>
-        <fo:table table-layout="fixed" margin-left="100px" border="1px solid" text-align="center">
-            <fo:table-column border="1px solid" column-width="20mm"/>
+        <fo:table table-layout="fixed" margin-left="160px" border="1px solid" text-align="center">
+            <fo:table-column border="1px solid" column-width="30mm"/>
             <fo:table-column border="1px solid" column-width="60mm"/>
-            <fo:table-column border="1px solid" column-width="20mm"/>
-            <fo:table-column border="1px solid" column-width="20mm"/>
+            <fo:table-column border="1px solid" column-width="30mm"/>
+            <fo:table-column border="1px solid" column-width="30mm"/>
 
-            <fo:table-body margin-left="-100px" text-align="center" display-align="center">
-                <fo:table-row border="1px solid">
+            <fo:table-body margin-left="-160px" text-align="center" display-align="center">
+                <fo:table-row padding="8pt" border="1pt solid black" background-color="#222831" number-rows-spanned="1"  color="white" font-weight="bold" font-size="15pt">
                     <fo:table-cell>
                         <fo:block>Code Module</fo:block>
                     </fo:table-cell>
@@ -60,8 +59,8 @@
                 </fo:table-row>
                 <xsl:for-each select="$etudiant/module">
                     <fo:table-row border="solid">
-                        <fo:table-cell text-align="center" display-align="center">
-                            <fo:block><xsl:value-of select="@codeModule"/></fo:block>
+                        <fo:table-cell  padding="6pt" border="1pt solid black" background-color="#7882A4" number-rows-spanned="1">
+                            <fo:block ><xsl:value-of select="@codeModule"/></fo:block>
                         </fo:table-cell>
                         <xsl:variable name="codeModule" select="@codeModule"/>
                         <xsl:variable name="module" select="document('../modules/module_GINF2.xml')/modules/module[@codeModule = $codeModule]"/>

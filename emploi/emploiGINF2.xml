@@ -4,13 +4,13 @@
         <Semaine numero="1">
             <Lundi jour="03/01">
                 <Seance seance="1">
-                    <Matiere>Cycle de vie logiciel</Matiere>
+                    <Matiere>Cycle de vie logiciel Methode Agile</Matiere>
                     <Enseignant>Mr Badir</Enseignant>
                     <Salle>B19</Salle>
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="2">
-                    <Matiere>Cycle de vie logiciel</Matiere>
+                    <Matiere>Cycle de vie logiciel Methode Agile</Matiere>
                     <Enseignant>Mr Badir</Enseignant>
                     <Salle>B19</Salle>
                     <Type>Cours</Type>
@@ -42,13 +42,13 @@
                     <Type>TP</Type>
                 </Seance>
                 <Seance seance="3">
-                    <Matiere>Programmation Systeme</Matiere>
+                    <Matiere>Programmation      Systeme</Matiere>
                     <Enseignant>Mr Amechnoue</Enseignant>
                     <Salle>B20</Salle>
                     <Type>TP</Type>
                 </Seance>
                 <Seance seance="4">
-                    <Matiere>Programmation Systeme</Matiere>
+                    <Matiere>Programmation     Systeme</Matiere>
                     <Enseignant>Mr Amechnoue</Enseignant>
                     <Salle>B20</Salle>
                     <Type>TP</Type>
@@ -68,7 +68,7 @@
                     <Type>TP</Type>
                 </Seance>
                 <Seance seance="3">
-                    <Matiere>Programmation Systeme</Matiere>
+                    <Matiere>Programmation     Systeme</Matiere>
                     <Enseignant>Mr Amechnoue</Enseignant>
                     <Salle>B22</Salle>
                     <Type>Cours</Type>
@@ -102,7 +102,7 @@
             </Jeudi>
             <Vendredi jour="07/01">
                 <Seance seance="1">
-                    <Matiere>Espagnol</Matiere>
+                    <Matiere>   Communication Espagnol  </Matiere>
                     <Enseignant>Mme Lamarti</Enseignant>
                     <Salle>B22</Salle>
                     <Type>Cours</Type>
@@ -126,14 +126,14 @@
         <Semaine numero="1">
             <Lundi jour="14/02">
                 <Seance seance="1">
-                    <Matiere>Cryptographie</Matiere>
-                    <Enseignant>Mmme Lazaar</Enseignant>
+                    <Matiere>   Cryptographie et Securite     </Matiere>
+                    <Enseignant>Mme Lazaar</Enseignant>
                     <Salle>A8</Salle>
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="2">
-                    <Matiere>Cryptographie</Matiere>
-                    <Enseignant>Mmme Lazaar</Enseignant>
+                    <Matiere>     Cryptographie et Securite    </Matiere>
+                    <Enseignant>Mme Lazaar</Enseignant>
                     <Salle>A8</Salle>
                     <Type>Cours</Type>
                 </Seance>
@@ -152,25 +152,25 @@
             </Lundi>
             <Mardi jour="15/02">
                 <Seance seance="1">
-                    <Matiere>Cryptographie</Matiere>
+                    <Matiere>  Cryptographie et Securite </Matiere>
                     <Enseignant>Mme Lazaar</Enseignant>
                     <Salle>B20</Salle>
                     <Type>TP</Type>
                 </Seance>
                 <Seance seance="2">
-                    <Matiere>DOT NET C Sharp</Matiere>
+                    <Matiere>DOT NET et Programmation C Sharp</Matiere>
                     <Enseignant>Mr Ghailani</Enseignant>
                     <Salle>B20</Salle>
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="3">
-                    <Matiere>Technique Algorithmique</Matiere>
+                    <Matiere>Technique Algorithmique Avancée</Matiere>
                     <Enseignant>Mr Maeoun</Enseignant>
                     <Salle>B20</Salle>
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="4">
-                    <Matiere>Technique Algorithmique</Matiere>
+                    <Matiere>Technique Algorithmique Avancée</Matiere>
                     <Enseignant>Mr Maeoun</Enseignant>
                     <Salle>B20</Salle>
                     <Type>TD</Type>
@@ -178,51 +178,51 @@
             </Mardi>
             <Mercredi jour="17/02">
                 <Seance seance="1">
-                    <Matiere>Comptabilité 2</Matiere>
+                    <Matiere>  Economie Comptabilité  2</Matiere>
                     <Enseignant>Mme Mergoum</Enseignant>
                     <Salle>B2</Salle>
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="2">
-                    <Matiere>Comptabilité 2</Matiere>
+                    <Matiere> Economie   Comptabilité 2</Matiere>
                     <Enseignant>Mme Mergoum</Enseignant>
                     <Salle>B2</Salle>
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="3">
-                    <Matiere>Management De projet</Matiere>
+                    <Matiere>  Gestion Management  De projet         </Matiere>
                     <Enseignant>Mme Rahali Azouzi</Enseignant>
                     <Salle>B21</Salle>
                     <Type>TP</Type>
                 </Seance>
                 <Seance seance="4">
-                    <Matiere>Management De projet</Matiere>
+                    <Matiere> Gestion Management  De projet </Matiere>
                     <Enseignant>Mme Rahali Azouzi</Enseignant>
-                    <Salle>B21</Salle>
+                    <Salle>B21      (Presentiel )</Salle>
                     <Type>TP</Type>
                 </Seance>
             </Mercredi>
             <Jeudi jour="18/02">
                 <Seance seance="1">
-                    <Matiere>Traitement D'Image</Matiere>
+                    <Matiere>     Traitement D'Image                  </Matiere>
                     <Enseignant>Mr Lachkar</Enseignant>
-                    <Salle>B19</Salle>
+                    <Salle>B19     (Presentiel ) </Salle>
                     <Type>TP</Type>
                 </Seance>
                 <Seance seance="2">
-                    <Matiere>Traitement D'Image</Matiere>
+                    <Matiere>      Traitement    D'Image</Matiere>
                     <Enseignant>Mr Lachkar</Enseignant>
-                    <Salle>B19</Salle>
+                    <Salle>B19      (Presentiel )</Salle>
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="3">
-                    <Matiere>DOT NET C Sharp</Matiere>
+                    <Matiere>DOT NET et Programmation C Sharp</Matiere>
                     <Enseignant>Mr Ghailani</Enseignant>
                     <Salle>B19</Salle>
                     <Type>TP</Type>
                 </Seance>
                 <Seance seance="4">
-                    <Matiere>DOT NET C Sharp</Matiere>
+                    <Matiere>DOT NET et Programmation C Sharp</Matiere>
                     <Enseignant>Mr Ghailani</Enseignant>
                     <Salle>B19</Salle>
                     <Type>TP</Type>
@@ -242,7 +242,7 @@
                     <Type>Cours</Type>
                 </Seance>
                 <Seance seance="4">
-                    <Matiere>Technique Algorithmique</Matiere>
+                    <Matiere>Technique Algorithmique Avancée </Matiere>
                     <Enseignant>Mr Maouen</Enseignant>
                     <Salle>B22</Salle>
                     <Type>TD</Type>
