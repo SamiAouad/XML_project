@@ -2,242 +2,242 @@
 <groupes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
    <student groupe="1">
       <CNE>B1</CNE>
-      <LastName>Aouad</LastName>
-      <FirstName>Sami</FirstName>
+      <LastName>Ait Saleh</LastName>
+      <FirstName>Mohamed</FirstName>
    </student>
    <student groupe="1">
       <CNE>B2</CNE>
-      <LastName>Aouad</LastName>
-      <FirstName>Sami</FirstName>
+      <LastName>Idrissi</LastName>
+      <FirstName>Fatima</FirstName>
    </student>
    <student groupe="1">
       <CNE>B3</CNE>
+      <LastName>Hassan</LastName>
+      <FirstName>Ahmed</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B4</CNE>
+      <LastName>Azziz</LastName>
+      <FirstName>Khadija</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B5</CNE>
+      <LastName>Naji</LastName>
+      <FirstName>Youssef</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B6</CNE>
+      <LastName>Karim</LastName>
+      <FirstName>Said</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B7</CNE>
+      <LastName>Said</LastName>
+      <FirstName>Rachid</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B8</CNE>
+      <LastName>Bennis</LastName>
+      <FirstName>Hassan</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B9</CNE>
+      <LastName>El alami</LastName>
+      <FirstName>Mustapha</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B10</CNE>
+      <LastName>Naciri</LastName>
+      <FirstName>Hicham</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B11</CNE>
+      <LastName>Mansouri</LastName>
+      <FirstName>Imane</FirstName>
+   </student>
+   <student groupe="1">
+      <CNE>B12</CNE>
       <LastName>Aouad</LastName>
       <FirstName>Sami</FirstName>
    </student>
    <student groupe="1">
-      <CNE>B4</CNE>
-      <LastName>Agnaou</LastName>
-      <FirstName>Mohamed</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B5</CNE>
-      <LastName>Agnaou</LastName>
-      <FirstName>Mohamed</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B6</CNE>
-      <LastName>Agnaou</LastName>
-      <FirstName>Mohamed</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B7</CNE>
-      <LastName>Agnaou</LastName>
-      <FirstName>Mohamed</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B8</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B9</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B10</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B11</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
-   </student>
-   <student groupe="1">
-      <CNE>B12</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
-   </student>
-   <student groupe="1">
       <CNE>B13</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
+      <LastName>Sbai</LastName>
+      <FirstName>Yassine</FirstName>
    </student>
    <student groupe="1">
       <CNE>B14</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
+      <LastName>Rachidi</LastName>
+      <FirstName>Omar</FirstName>
    </student>
    <student groupe="1">
       <CNE>B15</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
+      <LastName>Bakkali</LastName>
+      <FirstName>Nadia</FirstName>
    </student>
    <student groupe="1">
       <CNE>B16</CNE>
-      <LastName>Khabar</LastName>
-      <FirstName>Achraf</FirstName>
+      <LastName>Fathi</LastName>
+      <FirstName>Zineb</FirstName>
    </student>
    <student groupe="1">
       <CNE>B17</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Abid</LastName>
+      <FirstName>Ali</FirstName>
    </student>
    <student groupe="1">
       <CNE>B18</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Ouazzani</LastName>
+      <FirstName>Abdellah</FirstName>
    </student>
    <student groupe="1">
       <CNE>B19</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Salmi</LastName>
+      <FirstName>YOUNESSE</FirstName>
    </student>
    <student groupe="1">
       <CNE>B20</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Mesouadi</LastName>
+      <FirstName>SAAD</FirstName>
    </student>
    <student groupe="1">
       <CNE>B21</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Hilali</LastName>
+      <FirstName>Yassine</FirstName>
    </student>
    <student groupe="1">
       <CNE>B22</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Nabil</LastName>
+      <FirstName>Sara</FirstName>
    </student>
    <student groupe="1">
       <CNE>B23</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Hamdi</LastName>
+      <FirstName>Ayoub</FirstName>
    </student>
    <student groupe="1">
       <CNE>B24</CNE>
-      <LastName>Salah</LastName>
+      <LastName>Hamdaoui</LastName>
       <FirstName>Mohamed</FirstName>
    </student>
    <student groupe="2">
       <CNE>B25</CNE>
-      <LastName>Salah</LastName>
-      <FirstName>Mohamed</FirstName>
+      <LastName>Senhaji</LastName>
+      <FirstName>Malika</FirstName>
    </student>
    <student groupe="2">
       <CNE>B26</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Aarab</LastName>
+      <FirstName>raja</FirstName>
    </student>
    <student groupe="2">
       <CNE>B27</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Zahir</LastName>
+      <FirstName>Akram</FirstName>
    </student>
    <student groupe="2">
       <CNE>B28</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Fadili</LastName>
+      <FirstName>Latifa</FirstName>
    </student>
    <student groupe="2">
       <CNE>B29</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Toueil</LastName>
+      <FirstName>Zakaria</FirstName>
    </student>
    <student groupe="2">
       <CNE>B30</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Moumen</LastName>
+      <FirstName>Najat</FirstName>
    </student>
    <student groupe="2">
       <CNE>B31</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Amraoui</LastName>
+      <FirstName>Naila</FirstName>
    </student>
    <student groupe="2">
       <CNE>B32</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Zerouali</LastName>
+      <FirstName>Amine</FirstName>
    </student>
    <student groupe="2">
       <CNE>B33</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Benbrahim</LastName>
+      <FirstName>Jamila</FirstName>
    </student>
    <student groupe="2">
       <CNE>B34</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Soussi</LastName>
+      <FirstName>Mouaad</FirstName>
    </student>
    <student groupe="2">
       <CNE>B35</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Ghazi</LastName>
+      <FirstName>Soufiane</FirstName>
    </student>
    <student groupe="2">
       <CNE>B36</CNE>
-      <LastName>Fathi</LastName>
-      <FirstName>Hamdi</FirstName>
+      <LastName>Amzil</LastName>
+      <FirstName>Ghizlane</FirstName>
    </student>
    <student groupe="2">
       <CNE>B37</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Mahfoud</LastName>
+      <FirstName>Halima</FirstName>
    </student>
    <student groupe="2">
       <CNE>B38</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Bouayad</LastName>
+      <FirstName>Amina</FirstName>
    </student>
    <student groupe="2">
       <CNE>B39</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Oulad</LastName>
+      <FirstName>Hanane</FirstName>
    </student>
    <student groupe="2">
       <CNE>B40</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Mouhib</LastName>
+      <FirstName>Asmae</FirstName>
    </student>
    <student groupe="2">
       <CNE>B41</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Merkaoui</LastName>
+      <FirstName>Walid</FirstName>
    </student>
    <student groupe="2">
       <CNE>B42</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>El ouardi</LastName>
+      <FirstName>Ali</FirstName>
    </student>
    <student groupe="2">
       <CNE>B43</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Mourchid</LastName>
+      <FirstName>MOUAD</FirstName>
    </student>
    <student groupe="2">
       <CNE>B44</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Nasri</LastName>
+      <FirstName>Saad</FirstName>
    </student>
    <student groupe="2">
       <CNE>B45</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Benzakour</LastName>
+      <FirstName>Saloua</FirstName>
    </student>
    <student groupe="2">
       <CNE>B46</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Diouri</LastName>
+      <FirstName>Anasss</FirstName>
    </student>
    <student groupe="2">
       <CNE>B47</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Maaroud</LastName>
+      <FirstName>Ayman</FirstName>
    </student>
    <student groupe="2">
       <CNE>B48</CNE>
-      <LastName>Trezeget</LastName>
-      <FirstName>Hassani</FirstName>
+      <LastName>Kadouri</LastName>
+      <FirstName>Sanae</FirstName>
    </student>
 </groupes>

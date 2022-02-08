@@ -22,21 +22,16 @@
                                 <th scope="col">moyenne</th>
                             </tr>
                         </thead>
-                        
-                        <xsl:for-each select="notes/student/module[@codeModule = 'GINF34']">
-                            <xsl:variable name="cne" select="parent::student/@cne"/>
-                            <xsl:variable name="noteAvant" select="document('../notes/notes_GINF2.xml')/notes/student[@cne = $cne]/module[@codeModule = 'GINF34']"/>
+                        <xsl:variable name="codeModule" select="document('../user.xml')/user/codeModule"/>
+                        <xsl:for-each select="notes/student/module[@codeModule = $codeModule]">
                             
-                            <xsl:variable name="note1Ratt" select="note1"/>
-                            <xsl:variable name="note2Ratt" select="note2"/>
-                            <xsl:variable name="note1" select="$noteAvant/note1"/>
-                            <xsl:variable name="note2" select="$noteAvant/note2"/>
-                             
+                            <xsl:variable name="note1" select="note1"/>
+                            <xsl:variable name="note2" select="note2"/>
                             
-                            <xsl:variable name="note" select="($note1 + $note2 + $note1Ratt + $note2Ratt) div 4"/>
-                            
+                            <xsl:variable name="note" select="($note1 + $note2) div 2"/>
+                            <xsl:if test="$note &lt; 12 and $note &gt; 8 or $note = 8">
                                 
-                                
+                                <xsl:variable name="cne" select="parent::student/@cne"/>
                                 <xsl:variable name="students" select="document('../students/students_GINF2.xml')"/>
                                 
                                 <tr>
@@ -44,21 +39,10 @@
                                     <td><xsl:value-of select="$students/students/student[@CNE = $cne]/nom"/></td>
                                     <td><xsl:value-of select="$students/students/student[@CNE = $cne]/prenom"/></td>
                                     <td><xsl:value-of select="@codeModule"/></td>
-                                    <xsl:choose>
-                                        <xsl:when test="$note &lt; 12 and $note &gt; 8 or $note = 8">
-                                            <td class="bg-warning"><xsl:value-of select="$note"/></td>
-                                        </xsl:when>
-                                        <xsl:when test="$note &lt; 8">
-                                            <td class="bg-danger"><xsl:value-of select="$note"/></td>
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                            <td class="bg-success"><xsl:value-of select="$note"/></td>
-                                        </xsl:otherwise>
-                                    </xsl:choose>
-                                    
+                                    <td class="bg-warning"><xsl:value-of select="$note"/></td>
                                 </tr>
                                 
-                            
+                            </xsl:if>
                             
                         </xsl:for-each>
                     </table>   

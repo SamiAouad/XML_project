@@ -24,8 +24,8 @@
                                 <th scope="col">moyenne</th>
                             </tr>
                         </thead>
-                        
-                        <xsl:for-each select="notes/student/module[@codeModule = 'GINF33']">
+                        <xsl:variable name="codeModule" select="document('../user.xml')/user/codeModule"/>
+                        <xsl:for-each select="notes/student/module[@codeModule = $codeModule]">
                             <xsl:variable name="note1" select="note1"/>
                             <xsl:variable name="note2" select="note2"/>
                             <xsl:variable name="cne" select="parent::student/@cne"/>
@@ -35,7 +35,7 @@
                                     <td><xsl:value-of select="$cne"/></td>
                                     <td><xsl:value-of select="$students/students/student[@CNE = $cne]/nom"/></td>
                                     <td><xsl:value-of select="$students/students/student[@CNE = $cne]/prenom"/></td>
-                                    <td>GINF22</td>
+                                    <td><xsl:value-of select="$codeModule"/></td>
                                     <td><xsl:value-of select="$note1"/></td>
                                     <td><xsl:value-of select="$note2"/></td> 
                                     <xsl:if test="$note &gt; 12 or $note = 12">

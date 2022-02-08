@@ -26,15 +26,33 @@
                 </xs:element>
                 
             </xs:sequence>
-            <xs:attribute name="codeFiliere" type="xs:token" use="required"/>
+            <xs:attribute name="codeFiliere" type="code" use="required"/>
         </xs:complexType>
     </xs:element>
-    
-    <xs:complexType name="myDate">
-        <xs:sequence>
-            <xs:element name="year" type="xs:int"/>
-            <xs:element name="month" type="xs:int"/>
-            <xs:element name="day" type="xs:int"/>
-        </xs:sequence>
-    </xs:complexType> 
+    <xs:simpleType name="code">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="AP1" />
+            <xs:enumeration value="AP2" />
+            
+            <xs:enumeration value="GINF1" />
+            <xs:enumeration value="GINF2" />
+            <xs:enumeration value="GINF3" />
+            
+            <xs:enumeration value="GSTR1" />
+            <xs:enumeration value="GSTR2" />
+            <xs:enumeration value="GSTR3" />
+            
+            <xs:enumeration value="GIL1" />
+            <xs:enumeration value="GIL2" />
+            <xs:enumeration value="GIL3" />
+            
+            <xs:enumeration value="GSEA1" />
+            <xs:enumeration value="GSEA2" />
+            <xs:enumeration value="GSEA3" />
+            
+            <xs:enumeration value="G3EI1" />
+            <xs:enumeration value="G3EI2" />
+            <xs:enumeration value="G3EI3" />
+        </xs:restriction>
+    </xs:simpleType>
 </xs:schema>

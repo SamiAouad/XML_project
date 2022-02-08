@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <students>
 <student CNE="B1">
-<nom>Aouad</nom>
-<prenom>Sami</prenom>
+<nom>Ait</nom>
+<nom>Saleh</nom>
+<prenom>Mohamed</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -19,8 +20,8 @@
 </dateInscription>
 </student>
 <student CNE="B2">
-<nom>Aouad</nom>
-<prenom>Sami</prenom>
+<nom>Idrissi</nom>
+<prenom>Fatima</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -37,8 +38,8 @@
 </dateInscription>
 </student>
 <student CNE="B3">
-<nom>Aouad</nom>
-<prenom>Sami</prenom>
+<nom>Hassan</nom>
+<prenom>Ahmed</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -55,8 +56,8 @@
 </dateInscription>
 </student>
 <student CNE="B4">
-<nom>Agnaou</nom>
-<prenom>Mohamed</prenom>
+<nom>Azziz</nom>
+<prenom>Khadija</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -73,8 +74,8 @@
 </dateInscription>
 </student>
 <student CNE="B5">
-<nom>Agnaou</nom>
-<prenom>Mohamed</prenom>
+<nom>Naji</nom>
+<prenom>Youssef</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -91,8 +92,8 @@
 </dateInscription>
 </student>
 <student CNE="B6">
-<nom>Agnaou</nom>
-<prenom>Mohamed</prenom>
+<nom>Karim</nom>
+<prenom>Said</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -109,8 +110,8 @@
 </dateInscription>
 </student>
 <student CNE="B7">
-<nom>Agnaou</nom>
-<prenom>Mohamed</prenom>
+<nom>Said</nom>
+<prenom>Rachid</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -127,8 +128,8 @@
 </dateInscription>
 </student>
 <student CNE="B8">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Bennis</nom>
+<prenom>Hassan</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -145,8 +146,9 @@
 </dateInscription>
 </student>
 <student CNE="B9">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>El</nom>
+<nom>alami</nom>
+<prenom>Mustapha</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -163,8 +165,8 @@
 </dateInscription>
 </student>
 <student CNE="B10">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Naciri</nom>
+<prenom>Hicham</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -181,8 +183,8 @@
 </dateInscription>
 </student>
 <student CNE="B11">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Mansouri</nom>
+<prenom>Imane</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -199,8 +201,8 @@
 </dateInscription>
 </student>
 <student CNE="B12">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Aouad</nom>
+<prenom>Sami</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -217,8 +219,8 @@
 </dateInscription>
 </student>
 <student CNE="B13">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Sbai</nom>
+<prenom>Yassine</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -235,8 +237,8 @@
 </dateInscription>
 </student>
 <student CNE="B14">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Rachidi</nom>
+<prenom>Omar</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -253,8 +255,8 @@
 </dateInscription>
 </student>
 <student CNE="B15">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Bakkali</nom>
+<prenom>Nadia</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -271,8 +273,8 @@
 </dateInscription>
 </student>
 <student CNE="B16">
-<nom>Khabar</nom>
-<prenom>Achraf</prenom>
+<nom>Fathi</nom>
+<prenom>Zineb</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -289,8 +291,8 @@
 </dateInscription>
 </student>
 <student CNE="B17">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Abid</nom>
+<prenom>Ali</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -307,8 +309,8 @@
 </dateInscription>
 </student>
 <student CNE="B18">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Ouazzani</nom>
+<prenom>Abdellah</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -325,8 +327,8 @@
 </dateInscription>
 </student>
 <student CNE="B19">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Salmi</nom>
+<prenom>YOUNESSE</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -343,8 +345,8 @@
 </dateInscription>
 </student>
 <student CNE="B20">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Mesouadi</nom>
+<prenom>SAAD</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -361,8 +363,8 @@
 </dateInscription>
 </student>
 <student CNE="B21">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Hilali</nom>
+<prenom>Yassine</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>10</month>
@@ -379,8 +381,8 @@
 </dateInscription>
 </student>
 <student CNE="B22">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Nabil</nom>
+<prenom>Sara</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -397,8 +399,8 @@
 </dateInscription>
 </student>
 <student CNE="B23">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Hamdi</nom>
+<prenom>Ayoub</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -415,7 +417,7 @@
 </dateInscription>
 </student>
 <student CNE="B24">
-<nom>Salah</nom>
+<nom>Hamdaoui</nom>
 <prenom>Mohamed</prenom>
 <dateDeNaiss>
 <year>2000</year>
@@ -433,8 +435,8 @@
 </dateInscription>
 </student>
 <student CNE="B25">
-<nom>Salah</nom>
-<prenom>Mohamed</prenom>
+<nom>Senhaji</nom>
+<prenom>Malika</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -451,8 +453,8 @@
 </dateInscription>
 </student>
 <student CNE="B26">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Aarab</nom>
+<prenom>raja</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -469,8 +471,8 @@
 </dateInscription>
 </student>
 <student CNE="B27">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Zahir</nom>
+<prenom>Akram</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -487,8 +489,8 @@
 </dateInscription>
 </student>
 <student CNE="B28">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Fadili</nom>
+<prenom>Latifa</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -505,8 +507,8 @@
 </dateInscription>
 </student>
 <student CNE="B29">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Toueil</nom>
+<prenom>Zakaria</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -523,8 +525,8 @@
 </dateInscription>
 </student>
 <student CNE="B30">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Moumen</nom>
+<prenom>Najat</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -541,8 +543,8 @@
 </dateInscription>
 </student>
 <student CNE="B31">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Amraoui</nom>
+<prenom>Naila</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -559,8 +561,8 @@
 </dateInscription>
 </student>
 <student CNE="B32">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Zerouali</nom>
+<prenom>Amine</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -577,8 +579,8 @@
 </dateInscription>
 </student>
 <student CNE="B33">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Benbrahim</nom>
+<prenom>Jamila</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -595,8 +597,8 @@
 </dateInscription>
 </student>
 <student CNE="B34">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Soussi</nom>
+<prenom>Mouaad</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -613,8 +615,8 @@
 </dateInscription>
 </student>
 <student CNE="B35">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Ghazi</nom>
+<prenom>Soufiane</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -631,8 +633,8 @@
 </dateInscription>
 </student>
 <student CNE="B36">
-<nom>Fathi</nom>
-<prenom>Hamdi</prenom>
+<nom>Amzil</nom>
+<prenom>Ghizlane</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -649,8 +651,8 @@
 </dateInscription>
 </student>
 <student CNE="B37">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Mahfoud</nom>
+<prenom>Halima</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -667,8 +669,8 @@
 </dateInscription>
 </student>
 <student CNE="B38">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Bouayad</nom>
+<prenom>Amina</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -685,8 +687,8 @@
 </dateInscription>
 </student>
 <student CNE="B39">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Oulad</nom>
+<prenom>Hanane</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -703,8 +705,8 @@
 </dateInscription>
 </student>
 <student CNE="B40">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Mouhib</nom>
+<prenom>Asmae</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -721,8 +723,8 @@
 </dateInscription>
 </student>
 <student CNE="B41">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Merkaoui</nom>
+<prenom>Walid</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -739,8 +741,9 @@
 </dateInscription>
 </student>
 <student CNE="B42">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>El</nom>
+<nom>ouardi</nom>
+<prenom>Ali</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -757,8 +760,8 @@
 </dateInscription>
 </student>
 <student CNE="B43">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Mourchid</nom>
+<prenom>MOUAD</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -775,8 +778,8 @@
 </dateInscription>
 </student>
 <student CNE="B44">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Nasri</nom>
+<prenom>Saad</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -793,8 +796,8 @@
 </dateInscription>
 </student>
 <student CNE="B45">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Benzakour</nom>
+<prenom>Saloua</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -811,8 +814,8 @@
 </dateInscription>
 </student>
 <student CNE="B46">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Diouri</nom>
+<prenom>Anasss</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -829,8 +832,8 @@
 </dateInscription>
 </student>
 <student CNE="B47">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Maaroud</nom>
+<prenom>Ayman</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>
@@ -847,8 +850,8 @@
 </dateInscription>
 </student>
 <student CNE="B48">
-<nom>Trezeget</nom>
-<prenom>Hassani</prenom>
+<nom>Kadouri</nom>
+<prenom>Sanae</prenom>
 <dateDeNaiss>
 <year>2000</year>
 <month>11</month>

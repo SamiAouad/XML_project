@@ -19,6 +19,7 @@ import org.apache.fop.apps.FOPException;
 class MainClass {
     
     public static void main(String[] args) throws IOException{
+       
         
            Ecole ensat = new Ecole("ensat", "modules");
             ensat.addStudents("students");
@@ -26,18 +27,24 @@ class MainClass {
             ensat.generer_xml_students();
             ensat.generer_xml_modules();
             ensat.generer_xml_notes();
-        User user = new User("B22", "GINF2");
+        User user = new User("B12", "GINF2");
         /*
+        user.genererListeAvantRatt("GINF35");
+        user.genererListeRatt("GINF35");
+        user.genererListeApresRatt("GINF35");*/
+        
         try {
-            user.genereCarteEtu();
+//            user.genererAttestation();
+            Filiere filiere = new Filiere("GINF2", "modules");
+            filiere.genereEmploiAvantApres();
+            System.out.println("carte d'etudiant génèré");
         } catch (FOPException ex) {
-            Logger.getLogger(MainClass.class.getName()).log(Level.SEVERE, null, ex);
+            System.out.println(ex.getMessage());
         } catch (TransformerException ex) {
-            Logger.getLogger(MainClass.class.getName()).log(Level.SEVERE, null, ex);
+           System.out.println(ex.getMessage());
         } catch (FileNotFoundException ex) {
-            Logger.getLogger(MainClass.class.getName()).log(Level.SEVERE, null, ex);
+            System.out.println(ex.getMessage());
         }
-*/
     }
     
 }

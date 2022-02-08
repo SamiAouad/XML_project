@@ -5,8 +5,7 @@
         
             <fo:root>
                 <fo:layout-master-set>
-                    <fo:simple-page-master master-name="releveClasse" page-height="297mm"
-                        page-width="210mm">
+                    <fo:simple-page-master master-name="releveClasse" page-height="30cm" page-width="21cm" margin-top="2cm" margin-bottom="2cm" margin-left="5cm" margin-right="2cm">
                         <fo:region-body region-name="only_region"/>
                     </fo:simple-page-master>
                 </fo:layout-master-set>
@@ -25,40 +24,45 @@
             
         </xsl:template>
 
-    <xsl:template match="groupes" name="page1">
-        <fo:block text-align="center" margin-bottom="1cm" font-size="36px" padding="1cm"
-            font-family="Sans_serif"> Groupe 1 </fo:block>
+    <xsl:template match="groupes" name="page2">
        
-        <fo:table table-layout="fixed" margin-left="100px" border="1px solid" text-align="center">
-            <fo:table-column border="1px solid" column-width="20mm"/>
-            <fo:table-column border="1px solid" column-width="60mm"/>
-            <fo:table-column border="1px solid" column-width="20mm"/>
+        <fo:block font-weight="bold" font-size="23pt" text-indent="0pc" space-after="40pt" margin-left="-3cm"  space-before.minimum="6pt"  text-align="center"> 
+            Groupe 2
+        </fo:block>
+       
+        <fo:table  table-layout="fixed"  border="1px solid" text-align="center" >
+            <fo:table-column border=" solid" column-width="40mm"/>
+            <fo:table-column border=" solid" column-width="40mm"/>
+            <fo:table-column border=" solid" column-width="40mm"/>
             
-            
-            <fo:table-body margin-left="-100px" text-align="center" display-align="center">
-                <fo:table-row border="1px solid">
-                    <fo:table-cell>
-                        <fo:block>Code Module</fo:block>
-                    </fo:table-cell>
-                    <fo:table-cell>
-                        <fo:block>Elements</fo:block>
-                    </fo:table-cell>
-                    <fo:table-cell>
-                        <fo:block>Note</fo:block>
-                    </fo:table-cell>
-                  
-                </fo:table-row>
+            <fo:table-header>
                 
-                <xsl:for-each select="groupes/student[@groupe=1]">
-                    <fo:table-row border="solid">
-                        <fo:table-cell display-align="center" text-align="center">
-                            <fo:block border-bottom="solid"  padding-top="10px" padding-bottom="10px" ><xsl:value-of select="CNE"/></fo:block>
+                <fo:table-row>
+                    <fo:table-cell padding="4pt" border=" solid black" background-color="#222831">
+                        <fo:block text-align="center" color="white" font-weight="bold">Code Etudiant</fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell padding="4pt"  border=" solid black" background-color="#222831">
+                        <fo:block  color="white" text-align="center" font-weight="bold"> NOM</fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell padding="4pt" border=" solid black" background-color="#222831">
+                        <fo:block color="white" text-align="center" font-weight="bold"> PRENOM</fo:block>
+                    </fo:table-cell>
+                </fo:table-row>
+            </fo:table-header>
+            
+            <fo:table-body  >
+                
+                
+                <xsl:for-each select="groupes/student[@groupe=2]">
+                    <fo:table-row >
+                        <fo:table-cell border="1pt solid black" padding="2pt" >
+                            <fo:block   ><xsl:value-of select="CNE"/></fo:block>
                         </fo:table-cell>
-                        <fo:table-cell display-align="center" text-align="center">
-                            <fo:block border-bottom="solid"  padding-top="10px" padding-bottom="10px" ><xsl:value-of select="FirstName"/></fo:block>
+                        <fo:table-cell border="1pt solid black" padding="2pt">
+                            <fo:block    ><xsl:value-of select="FirstName"/></fo:block>
                         </fo:table-cell>
-                        <fo:table-cell display-align="center" text-align="center">
-                            <fo:block border-bottom="solid"  padding-top="10px" padding-bottom="10px" ><xsl:value-of select="LastName"/></fo:block>
+                        <fo:table-cell border="1pt solid black" padding="2pt" >
+                            <fo:block  ><xsl:value-of select="LastName"/></fo:block>
                         </fo:table-cell>
                     </fo:table-row>
                 </xsl:for-each>
@@ -67,47 +71,57 @@
         </fo:table>
         
     </xsl:template>
-    <xsl:template match="notes" name="page2">
+    
+    
+    
+    
+    <xsl:template match="groupes" name="page1">
+        <fo:block font-weight="bold" font-size="23pt" text-indent="0pc" space-after="40pt" margin-left="-3cm"  space-before.minimum="6pt"  text-align="center"> 
+            Ecole Nationale des Sciences Appliquees 
+        </fo:block>
+        <fo:block font-weight="bold" font-size="23pt" text-indent="0pc" space-after="40pt" margin-left="-3cm"  space-before.minimum="6pt"  text-align="center"> 
+            Groupe 1
+        </fo:block>
         
-        <fo:block text-align="center" margin-bottom="1cm" font-size="36px" padding="1cm"
-            font-family="Sans_serif"> Groupe 2 </fo:block>
-        <fo:table border="0.5pt solid black" border-spacing="3pt" table-layout="fixed"   margin-left="200px">
-            <fo:table-column  column-number="1"  column-width="40mm"/>
-            <fo:table-column border="1px solid"  column-width="40mm"/>
-            <fo:table-column border="1px solid" column-width="40mm" />
+        <fo:table  table-layout="fixed"  border="1px solid" text-align="center" >
+            <fo:table-column border=" solid" column-width="40mm"/>
+            <fo:table-column border=" solid" column-width="40mm"/>
+            <fo:table-column border=" solid" column-width="40mm"/>
             
-            
-            <fo:table-body>
-                <fo:table-row border="1px solid">
-                    <fo:table-cell>
-                        <fo:block>Code Module</fo:block>
-                    </fo:table-cell>
-                    <fo:table-cell>
-                        <fo:block>Elements</fo:block>
-                    </fo:table-cell>
-                    <fo:table-cell>
-                        <fo:block>Note</fo:block>
-                    </fo:table-cell>
-                    
-                </fo:table-row>
+            <fo:table-header>
                 
-                <xsl:for-each select="groupes/student[@groupe=2]">
-                    <fo:table-row border="solid">
-                        <fo:table-cell display-align="center" text-align="center">
-                            <fo:block border-bottom="solid"  padding-top="10px" padding-bottom="10px" ><xsl:value-of select="CNE"/></fo:block>
+                <fo:table-row>
+                    <fo:table-cell padding="4pt" border=" solid black" background-color="#222831">
+                        <fo:block text-align="center" color="white" font-weight="bold">Code Etudiant</fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell padding="4pt"  border=" solid black" background-color="#222831">
+                        <fo:block  color="white" text-align="center" font-weight="bold"> NOM</fo:block>
+                    </fo:table-cell>
+                    <fo:table-cell padding="4pt" border=" solid black" background-color="#222831">
+                        <fo:block color="white" text-align="center" font-weight="bold"> PRENOM</fo:block>
+                    </fo:table-cell>
+                </fo:table-row>
+            </fo:table-header>
+            
+            <fo:table-body  >
+                
+                
+                <xsl:for-each select="groupes/student[@groupe=1]">
+                    <fo:table-row >
+                        <fo:table-cell border="1pt solid black" padding="2pt" >
+                            <fo:block   ><xsl:value-of select="CNE"/></fo:block>
                         </fo:table-cell>
-                        <fo:table-cell display-align="center" text-align="center">
-                            <fo:block border-bottom="solid"  padding-top="10px" padding-bottom="10px" ><xsl:value-of select="FirstName"/></fo:block>
+                        <fo:table-cell border="1pt solid black" padding="2pt">
+                            <fo:block    ><xsl:value-of select="FirstName"/></fo:block>
                         </fo:table-cell>
-                        <fo:table-cell display-align="center" text-align="center">
-                            <fo:block border-bottom="solid"  padding-top="10px" padding-bottom="10px" ><xsl:value-of select="LastName"/></fo:block>
+                        <fo:table-cell border="1pt solid black" padding="2pt" >
+                            <fo:block  ><xsl:value-of select="LastName"/></fo:block>
                         </fo:table-cell>
                     </fo:table-row>
                 </xsl:for-each>
                 
             </fo:table-body>
         </fo:table>
-        
         
     </xsl:template>
 </xsl:stylesheet>
