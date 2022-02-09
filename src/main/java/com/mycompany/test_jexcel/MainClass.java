@@ -28,10 +28,9 @@ class MainClass {
             ensat.generer_xml_modules();
             ensat.generer_xml_notes();
         User user = new User("B12", "GINF2");
-        /*
         user.genererListeAvantRatt("GINF35");
         user.genererListeRatt("GINF35");
-        user.genererListeApresRatt("GINF35");*/
+        user.genererListeApresRatt("GINF35");
         
         try {
 //            user.genererAttestation();
